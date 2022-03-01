@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clocloaky
 - 👀 I’m interested in drawing, reading/writing, video games!
-- 🌱 I’m currently learning xcode. I was learning React js over the summer but I put it on pause for my last semester :).
+- 🌱 I’m currently learning React. I reviewed up to hooks but I want to create some projects :)
 - 💞️ I’m looking to collaborate on making simulator games. Usually Otome based games that are stat builders.
 - 📫 How to reach me: my linked in!
 
