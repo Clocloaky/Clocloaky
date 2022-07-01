@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clocloaky
+- 👋 Hi, I’m Irene Jiang
 - 👀 I’m interested in drawing, reading/writing, video games!
 - 🌱 I’m currently learning React. I reviewed up to hooks but I want to create some projects :)
 - 📫 How to reach me: my linked in!
