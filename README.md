@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irene Jiang
 - 👀 I’m interested front end web development and am currently learning data analytics. I'm also really into drawing, reading/writing, and video games! 
-- 🌱 I’m currently learning React, Tailwind CSS and MongoDB. I am also doing an apprenticeship with COOP Careers on the Data Analytics Track.
+- 🌱 Working as a Business Analyst right now. I am a coop alumni :)
 - 📫 How to reach me: my linked in! I would love to connect!
 - 📑 My Tableau Visualizations: https://public.tableau.com/app/profile/irene.jiang
 
